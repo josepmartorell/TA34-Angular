@@ -1,0 +1,18 @@
+#tilt {
+    padding-top: 80px;
+    padding-left: 500px;
+  }
+
+  /* here I add styles to the div with the background image so that it stretches and takes the background image to the end of the page */
+
+.container-fluid{
+    padding-top: 0.5%;
+    padding-bottom: 25%;
+    background-image:url("https://aldanalaser.files.wordpress.com/2013/06/fondo-3.jpg?w=842");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vw;
+}
+
+
+
